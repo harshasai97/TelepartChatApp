@@ -1,9 +1,9 @@
 {
-  "name": "vite-react-typescript-starter",
+  "name": "telepart-chat-app",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://harshasai97.github.io/TelepartChatApp",
+  "homepage": "https://harshasai97.github.io/TelepartChatApp/",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist",
